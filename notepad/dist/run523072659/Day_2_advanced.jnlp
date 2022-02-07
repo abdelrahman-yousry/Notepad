@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Day_2_advanced.jnlp">
+  <information>
+    <title>Day_2_advanced</title>
+    <vendor>U3</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Day_2_advanced.jar" size="13653" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="notepad.Day_2_advanced"  name="Day_2_advanced" />
+  <update check="always"/>
+</jnlp>
